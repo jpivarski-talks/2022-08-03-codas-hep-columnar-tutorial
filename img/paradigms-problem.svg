@@ -24,8 +24,8 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="1.443869"
-     inkscape:cx="388.88568"
-     inkscape:cy="167.95152"
+     inkscape:cx="429.40184"
+     inkscape:cy="172.10703"
      inkscape:window-width="1396"
      inkscape:window-height="970"
      inkscape:window-x="400"
@@ -461,13 +461,13 @@
     <text
        xml:space="preserve"
        style="font-size:4.23333px;line-height:1.25;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';stroke-width:0.264583"
-       x="123.32561"
+       x="123.32581"
        y="72.200233"
        id="text85637"><tspan
          sodipodi:role="line"
          id="tspan85635"
          style="stroke-width:0.264583"
-         x="123.32561"
+         x="123.32581"
          y="72.200233">Multiply A<tspan
    style="font-size:65%;baseline-shift:sub"
    id="tspan99083">i</tspan> · B<tspan
@@ -475,12 +475,12 @@
    id="tspan92109">ij</tspan></tspan><tspan
          sodipodi:role="line"
          style="stroke-width:0.264583"
-         x="123.32561"
+         x="123.32581"
          y="77.491898"
          id="tspan85639">then sum over j</tspan><tspan
          sodipodi:role="line"
          style="stroke-width:0.264583"
-         x="123.32561"
+         x="123.32581"
          y="82.783554"
          id="tspan103189">leaving one value for each i</tspan></text>
   </g>
