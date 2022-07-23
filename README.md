@@ -1,4 +1,4 @@
-# CoDaS-HEP
+# Materials for CoDaS-HEP 2022 Columnar Data Analysis tutorial
 
 This repository contains three notebooks on [columnar data analysis](https://indico.cern.ch/event/1151367/timetable/#41-columnar-data-analysis), presented at CoDaS-HEP at 12:30pm on August 3, 2022 by Jim Pivarski and Ioana Ifrim.
 
