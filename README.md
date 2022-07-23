@@ -7,7 +7,7 @@ This repository contains three notebooks on [columnar data analysis](https://ind
 You don't need to install anything on your computer to participate; I encourage everyone to join on Binder.
 
 <p align="center">
-  <a href="https://mybinder.org/v2/gh/jpivarski-talks/2022-08-03-codas-hep-columnar-tutorial/v1.0?urlpath=lab/tree/part-1.ipynb">
+  <a href="https://mybinder.org/v2/gh/jpivarski-talks/2022-08-03-codas-hep-columnar-tutorial/v1.1?urlpath=lab/tree/part-1.ipynb">
     <img src="https://mybinder.org/badge_logo.svg" alt="Launch Binder" height="40">
   </a>
 </p>
