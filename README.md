@@ -33,3 +33,9 @@ If you want to see the notebooks online but don't want to execute them in Binder
    * [project.ipynb](project.ipynb): set-up and challenge problems—discovering the Higgs boson
 
 The default notebooks are unevaluated. To see static outputs from a previous run, look in the [evaluated](evaluated) directory.
+
+## Related tutorials
+
+At [SciPy 2022](https://www.scipy2022.scipy.org/tutorials-schedule), Jim presented array-oriented programming for a non-physics audience: [materials](https://github.com/jpivarski-talks/2022-07-11-scipy-loopy-tutorial#readme) (GitHub and Binder), [video](https://youtu.be/Dovyd72eD70) (YouTube).
+
+The focus and the problems are different, so if you'd like more practice, take a look!
